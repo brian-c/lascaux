@@ -1,0 +1,7 @@
+{
+  "name": "lascaux",
+  "version": "0.0.1",
+  "devDependencies": {
+    "silver-server": "~0.1.0"
+  }
+}
